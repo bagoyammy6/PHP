@@ -2,7 +2,7 @@
 
 $db_host = 'localhost';  // 主機名稱
 $db_name = 'proj';  // 資料庫名稱
-$db_user = 'Rocky';
+$db_user = 'root';
 $db_pass = '';
 
 // data source name
